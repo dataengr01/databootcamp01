@@ -1,0 +1,2 @@
+sadiq asked a question about folders in GIT.
+You can add your folder and commit your changes
